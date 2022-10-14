@@ -1,6 +1,7 @@
-# Jeremiah-Task-3
+# Kachi-Task-3
 
-![image](https://user-images.githubusercontent.com/57032138/194783667-3959745b-75b2-43b7-b4e1-082096e28a3e.png)
+![Screenshot from 2022-10-14 23-23-44](https://user-images.githubusercontent.com/89210451/195937296-9fef7192-efce-48c1-b13f-a126ff7466d1.png)
+
 
 
 The image above show a part of the coordinate plane (− 10 ≤ x ≤ 10, − 10 ≤ y ≤ 10) with graphs of functions (parabola, line) and shapes (circle, rectangle). The size of one grid cell is 1 (unit). Thus, the parameters of functions and shapes can be uniquely determined from the figure.
